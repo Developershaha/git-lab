@@ -3,4 +3,18 @@ hey i am shahaji kokane oky
 
 this is main branch code oky and i am learning git branches oky so its used for different team will work on different functionality oky 
 
+<<<<<<< HEAD
 -- master branch  
+=======
+
+
+======= i will create on develop branch and i will maked the chaggnes in that branch 
+
+now i am on develop branch oky 
+done
+
+
+
+
+ 
+>>>>>>> develop
