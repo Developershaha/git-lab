@@ -3,6 +3,7 @@ hey i am shahaji kokane oky
 
 this is main branch code oky and i am learning git branches oky so its used for different team will work on different functionality oky 
 
+-- master branch  
 
 
 
@@ -10,7 +11,3 @@ now i am on develop branch oky
 done
 
 
-
-
- 
--- master branch  
